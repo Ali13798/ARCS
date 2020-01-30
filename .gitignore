@@ -1,4 +1,7 @@
 # The LockFiles
 *.lck
-#/*/OldVersions
+
+#OldVersions Folders
+*/OldVersions
+*/*/OldVersions
 #/PARTS/Prototypes_For_Prints/OldVersions
